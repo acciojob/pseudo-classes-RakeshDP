@@ -2,7 +2,7 @@
 :root {
 	--blue:rgb(135, 206, 235);
 }
-body{
+.root{
 	background: var(--blue);
 }
 
