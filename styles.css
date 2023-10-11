@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 :root {
-	--blue:rgb(135, 206, 235);
-}
-.root{
-	background: var(--blue);
+  --page-background-color: rgb(135, 206, 235);
 }
 
+.root {
+  background-color: var(--page-background-color);
+}
 .para p:first-child{
 	background: black;
 	color:white;
